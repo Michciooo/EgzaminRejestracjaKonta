@@ -36,5 +36,14 @@ class MainActivity : AppCompatActivity() {
                 else -> info_text_view.text = "Witaj $email"
             }
         }
+        /*
+
+        /********************************************************
+         * nazwa funkcji: setOnClickListener
+         * parametry wejściowe: brak
+         * wartość zwracana: brak , obsluguje walidacje pol rejestracji konta
+         * autor: 2137
+         * ****************************************************/
+        */
     }
 }
